@@ -98,6 +98,7 @@ input[type=text] {
     animation-duration: 1s
 }
 
+
 @-webkit-keyframes animatebottom {
     from {
         bottom: -100px;
